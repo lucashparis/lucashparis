@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I'm Lucas Paris
-- I am 20 years old, graduated in systems analysis and development.
-- I work at Marknet as a front-end developer. :computer:
+- I am 20 years old, graduated in systems analysis and development :computer:
 - I'm specializing in JS.
 
 ## Connect with me:
