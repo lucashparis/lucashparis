@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Lucas Paris
-- I am 20 years old, graduated in systems analysis and development :computer:
+- I am 21 years old, graduated in systems analysis and development :computer:
 - I'm specializing in JS.
 
 ## Connect with me:
